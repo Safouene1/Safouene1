@@ -7,27 +7,28 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/SpringBoot-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/vue.js-282C34?logo=Vuejs&logoColor=3DDC84" alt="Vue logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/vue.js-282C34?logo=Vue&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Junit-282C34?logo=junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor] 
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/jetbrains-282C34?logo=jetbrains&logoColor=007ACC" alt="Visual Studio Code logo" title="jetbrains" height="25" />][tech_tools_anchor]
-
+[<img src="https://img.shields.io/badge/jetbrains-282C34?logo=jetbrains&logoColor=007ACC" alt="jet brains logo" title="jetbrains" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Spring Boot-282C34?logo=springboot&logoColor=339933" alt="Spring logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FFFFFF" alt="Angular logo" title="Next.js" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
 
