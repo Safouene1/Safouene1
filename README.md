@@ -1,6 +1,7 @@
+Try this markdown:
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+![alt text](https://github.com/safouene1/safouene1/blob/master/Assets/banner.jpg?raw=true)
 
 ## 🛠  Technologies and tools
 
