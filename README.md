@@ -11,7 +11,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuejs&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vuejs&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -45,7 +45,7 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Behance-282C34?logo=linkedin&logoColor=0077B5" alt="Behance logo" title="Behance" height="25" />](behance.net/tsafouen)
+[<img src="https://img.shields.io/badge/Behance-282C34?logo=Behance&logoColor=0077B5" alt="Behance logo" title="Behance" height="25" />](behance.net/tsafouen)
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/safouen-turki-9a528114a/)
 
 [tech_tools_anchor]: #bonjour--
