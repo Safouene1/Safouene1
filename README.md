@@ -21,14 +21,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/jetbrains-282C34?logo=jetbrains&logoColor=007ACC" alt="jet brains logo" title="jetbrains" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
+
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/Spring Boot-282C34?logo=spring&logoColor=339933" alt="Spring logo" title="Spring" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FF0000" alt="Angular logo" title="Angular" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=FF0000" alt="Angular logo" title="Angular logo" height="25" />][learning_now_anchor]
 &nbsp;
 
 
@@ -41,7 +42,7 @@
 
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=CC6699" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=docker&logoColor=38B2AC" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=38B2AC" alt="Kubernetes logo" title="Docker" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
 
