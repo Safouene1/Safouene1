@@ -11,7 +11,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuejs&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -31,6 +31,7 @@
 &nbsp;
 
 
+
 ## 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
@@ -40,13 +41,12 @@
 
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=CC6699" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=38B2AC" alt="Kubernetes logo" title="Docker" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=38B2AC" alt="Kubernetes logo" title="Kubernetes" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/Behance-282C34?logo=linkedin&logoColor=0077B5" alt="Behance logo" title="Behance" height="25" />](behance.net/tsafouen)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/safouen-turki-9a528114a/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
