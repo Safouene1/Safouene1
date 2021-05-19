@@ -11,11 +11,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/vue.js-282C34?logo=Vue.js&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=3DDC84" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Junit-282C34?logo=junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor] 
+[<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
