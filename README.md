@@ -34,7 +34,7 @@
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=02569B" alt="AWS logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
