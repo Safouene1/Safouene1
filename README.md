@@ -13,6 +13,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/javascript-282C34?logo=Javascript&logoColor=3DDC84" alt="Javascript logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/VueJs-282C34?logo=Vue-js&logoColor=3DDC84" alt="Vuejs logo" title="Vue" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
