@@ -25,18 +25,11 @@
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/Spring Boot-282C34?logo=spring&logoColor=339933" alt="Spring logo" title="Spring" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=FF0000" alt="Angular logo" title="Angular logo" height="25" />][learning_now_anchor]
-&nbsp;
-
 
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=02569B" alt="AWS logo" title="Flutter" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=nodejs&logoColor=02569B" alt="AWS logo" title="Node js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
