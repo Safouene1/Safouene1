@@ -34,8 +34,6 @@
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=CC6699" alt="React logo" title="React" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=38B2AC" alt="Kubernetes logo" title="Kubernetes" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
