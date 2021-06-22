@@ -9,9 +9,9 @@
 
 [<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=3178C6" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/javascript-282C34?logo=Javascript&logoColor=3DDC84" alt="Javascript logo" title="Vue" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -22,7 +22,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBC" alt="React" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
