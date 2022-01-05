@@ -39,7 +39,7 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Behance-282C34?logo=Behance&logoColor=0077B5" alt="Behance logo" title="Behance" height="25" />](behance.net/tsafouen)
+[<img src="https://img.shields.io/badge/Behance-282C34?logo=Behance&logoColor=0077B5" alt="Behance logo" title="Behance" height="25" />](https://www.behance.net/tsafouen)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/safouen-turki-9a528114a/)
 
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" title="DEV" height="25" />](https://dev.to/safouene1)
